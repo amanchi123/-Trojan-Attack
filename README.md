@@ -1,5 +1,5 @@
-#Assurance to Machine Learning Models:
-Project Title: Advanced Algorithms for Machine Learning-P82
+
+Project Title: Assurance to Advanced Machine Learing Algorithms
 
 State-of-the-art Machine Learning methods are always black-box models, i.e., we do not know how the model behaves during the training and inference phases. In many real-world applications, the prediction accuracy is not the only factor when making decisions. Instead, should focus on fairness , explain ability of the model.
 Developed a computational framework that is flexible to address various aspects of the assurance problems e.g., fairness, robustness, interpretability using Deep Learning (CNN) at its core.
