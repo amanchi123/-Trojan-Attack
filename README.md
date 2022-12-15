@@ -101,7 +101,7 @@ on the concepts of neural Trojan attacks, discussed on existing related work for
 defense methods finding out the best suggest able method by surveying on different papers and 
 implemented concept of Badnets considering the MNIST dataset in real time by building the clean 
 model using CNN model with an model performance of about 98%, Creating Poisonous model with 
-performance rate of 100% . Implementing defence technique STRIP to check for accuracy of the 
+performance rate of 95% . Implementing defence technique STRIP to check for accuracy of the 
 model and recover to orginal model with performance rate of 92%. 
 Future Scope: 
 This research project can be expanded by implementing the poison model in such a way which can 
